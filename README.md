@@ -21,6 +21,6 @@ Frontend HTML, CSS, JavaScript
 
 Backend Python, Flask
 
-Machine Learning TF-IDF, Cosine Similarity, NLP Techniques
+Machine Learning ,NLP Techniques
 
 Database Optional SQLite PostgreSQL for storing previous scans
